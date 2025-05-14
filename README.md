@@ -1,6 +1,6 @@
-# Stala Quiz Application
+# QuizMaster Application
 
-Welcome to the Stala Quiz application, a simple quiz program built with Python and Tkinter. This quiz app allows users to log in, answer a series of questions, and receive a final score.
+Welcome to the QuizMaster application, a simple quiz program built with Python and Tkinter. This quiz app allows users to log in, answer a series of questions, and receive a final score.
 
 ## Features
 
@@ -30,8 +30,8 @@ Welcome to the Stala Quiz application, a simple quiz program built with Python a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/stala-quiz.git
-   cd stala-quiz
+   git clone https://github.com/AdityaC-0605/QuizMaster.git
+   cd QuizMaster
 
 ## Install the required dependencies
 
